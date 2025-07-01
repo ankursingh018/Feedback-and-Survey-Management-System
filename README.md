@@ -2,7 +2,7 @@
 
 # Smart Survey - Survey and Feedback Management System
 
-**Surveya** is a role-based web application that allows organizations to create, distribute, and analyze surveys. Built with HTML, CSS, JavaScript (Frontend), Node.js and Express (Backend), and MongoDB (Database), it provides a robust feedback management solution.
+**SurveyPro** is a role-based web application that allows organizations to create, distribute, and analyze surveys. Built with HTML, CSS, JavaScript (Frontend), Node.js and Express (Backend), and MongoDB (Database), it provides a robust feedback management solution.
 
 ---
 
@@ -96,15 +96,15 @@ The system supports two roles:
    http://localhost:3000
 
 📌 **Future Enhancements**
-  Email invitations for surveys
+       Email invitations for surveys
 
-  Admin dashboard with advanced filters
+       Admin dashboard with advanced filters
 
-  Export responses to CSV/PDF
+       Export responses to CSV/PDF
 
-  Real-time analytics updates
+       Real-time analytics updates
 
-  Mobile responsive UI
+       Mobile responsive UI
 
 🧑‍💻 **Contributing**
 Contributions are welcome!
