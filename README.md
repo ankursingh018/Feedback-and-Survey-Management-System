@@ -1,6 +1,6 @@
 
 
-# Surveya - Survey and Feedback Management System
+# Smart Survey - Survey and Feedback Management System
 
 **Surveya** is a role-based web application that allows organizations to create, distribute, and analyze surveys. Built with HTML, CSS, JavaScript (Frontend), Node.js and Express (Backend), and MongoDB (Database), it provides a robust feedback management solution.
 
