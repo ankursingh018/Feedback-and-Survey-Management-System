@@ -72,4 +72,43 @@ The system supports two roles:
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/ankursingh018/Feedback-and-Survey-Management-System.git
+
+
+2. **Install Backend Dependencies**
+    npm install
+
    
+3. **Configure Environment Variables**
+    Create a .env file in the root with the following:
+
+    env
+    PORT=3000
+    MONGODB_URI=your_mongodb_connection_string
+    SESSION_SECRET=your_secret
+
+   
+4. **Run the Server**
+     npm start
+
+   
+5. **Access the App**
+
+   http://localhost:3000
+
+📌 **Future Enhancements**
+  Email invitations for surveys
+
+  Admin dashboard with advanced filters
+
+  Export responses to CSV/PDF
+
+  Real-time analytics updates
+
+  Mobile responsive UI
+
+🧑‍💻 **Contributing**
+Contributions are welcome!
+Open an issue or submit a pull request.
+
+📄 **License**
+This project is licensed under the MIT License
