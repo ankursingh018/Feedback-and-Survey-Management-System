@@ -95,7 +95,7 @@ The system supports two roles:
 
    http://localhost:3000
 
-📌 ##Future Enhancements
+##📌 Future Enhancements
        Email invitations for surveys
 
        Admin dashboard with advanced filters
@@ -106,9 +106,9 @@ The system supports two roles:
 
        Mobile responsive UI
 
-🧑‍💻 ##Contributing:
+##🧑‍💻 Contributing:
 Contributions are welcome!
 Open an issue or submit a pull request.
 
-📄 ##License:
+##📄 License:
 This project is licensed under the MIT License
