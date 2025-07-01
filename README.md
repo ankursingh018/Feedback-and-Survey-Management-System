@@ -71,5 +71,5 @@ The system supports two roles:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/surveya.git
-   cd surveya
+   git clone https://github.com/ankursingh018/Feedback-and-Survey-Management-System.git
+   
